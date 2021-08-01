@@ -12,5 +12,10 @@ https://www.kaggle.com/
 
 
 update on July, 29th, 2021. 
-code of part 1,
+code of day 1,
+to be continued...
+
+
+update on August, 1st, 2021. 
+code of day 2,
 to be continued...
