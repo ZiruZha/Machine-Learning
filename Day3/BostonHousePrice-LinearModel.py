@@ -5,7 +5,6 @@
 # @Software: PyCharm
 
 
-import joblib
 from sklearn.datasets import load_boston
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
@@ -13,7 +12,7 @@ from sklearn.linear_model import LinearRegression, SGDRegressor
 from sklearn.linear_model import Ridge
 from sklearn.metrics import mean_squared_error
 # 保存模型
-
+import joblib
 
 
 def linear1():
