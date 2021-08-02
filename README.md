@@ -7,8 +7,9 @@ based on 黑马程序员3天快速入门python机器学习， scikit-learn and k
 
 url:
 https://m.bilibili.com/video/BV1nt411r7tj
-https://scikit-learn.org/stable/
+https://scikit-learn.org/
 https://www.kaggle.com/
+https://archive.ics.uci.edu/ml/index.php
 
 
 update on July, 29th, 2021. 
